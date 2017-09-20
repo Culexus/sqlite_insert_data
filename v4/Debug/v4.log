@@ -1,0 +1,4 @@
+﻿  main.cpp
+  sqlite3.c
+f:\cpp_proj\test_engine\v4\v4\sqlite3.c(32732): error C4996: 'GetVersionExA': объявлен deprecate
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\sysinfoapi.h(436): note:  см. объявление "GetVersionExA"

@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\cpp_proj\test_engine\v4\v4\main.cpp(40): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+  v4.vcxproj -> F:\CPP_proj\test_engine\v4\x64\Debug\v4.exe
+  v4.vcxproj -> F:\CPP_proj\test_engine\v4\x64\Debug\v4.pdb (Partial PDB)
